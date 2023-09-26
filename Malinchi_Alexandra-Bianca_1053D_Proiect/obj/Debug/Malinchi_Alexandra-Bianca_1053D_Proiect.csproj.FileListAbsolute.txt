@@ -1,0 +1,12 @@
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\bin\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.exe.config
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\bin\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.exe
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\bin\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.pdb
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.csprojAssemblyReference.cache
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra_Bianca_1053D_Proiect.Properties.Resources.resources
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.csproj.GenerateResource.cache
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.exe
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra-Bianca_1053D_Proiect.pdb
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra_Bianca_1053D_Proiect.PublicareAnunt.resources
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra_Bianca_1053D_Proiect.PrimaPagina.resources
+C:\Users\ALEXANDRA\source\repos\Malinchi_Alexandra-Bianca_1053D_Proiect\obj\Debug\Malinchi_Alexandra_Bianca_1053D_Proiect.RezervaCamere.resources
